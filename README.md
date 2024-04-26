@@ -1,6 +1,6 @@
 # pizza_sales_sql
 
-_#### This Project centered around Pizza Sales. It's crafted utilizing four dynamic datasets: orders, order_details, pizzas, and pizza_types.
+#### _This Project centered around Pizza Sales. It's crafted utilizing four dynamic datasets: orders, order_details, pizzas, and pizza_types._
 #### orders table contains details like order_id, order_date, and order_time. 
 #### order_details contains info about order_detail_id, pizza_id,order_id  and quantity.
 #### pizzas contains info on pizza_id, pizza_type_id, size, and price.  
