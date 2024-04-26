@@ -1,4 +1,4 @@
-# pizza_sales_sql
+# Pizza_sales_sql
 
  _This Project centered around Pizza Sales. It's crafted utilizing four dynamic datasets: orders, order_details, pizzas, and pizza_types._
 * orders table contains details like order_id, order_date, and order_time.
